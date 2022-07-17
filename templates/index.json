@@ -80,7 +80,7 @@
       "settings": {
         "title": "Featured Flamengo",
         "heading_size": "h2",
-        "collection": "Home page",
+        "collection": "all",
         "products_to_show": 8,
         "columns_desktop": 4,
         "color_scheme": "background-1",
@@ -101,7 +101,7 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "nike"
           }
         },
         "product": {
@@ -112,9 +112,10 @@
           }
         },
         "collection-1": {
-          "type": "collection",
+          "type": "product",
           "settings": {
-            "collection": ""
+            "product": "",
+            "second_image": false
           }
         }
       },
